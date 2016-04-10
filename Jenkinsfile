@@ -5,5 +5,5 @@ node ('jenkins-master') {
 
 stage 'Two'
 node ('jenkins-master') {
-  sh 'Run stage two'
+  sh 'echo Run stage two'
 }
