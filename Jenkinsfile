@@ -1,4 +1,4 @@
 stage 'Test'
-node ('jenkins-master') {
+node ('ubuntu') {
   sh 'echo Hello World!'
 }
