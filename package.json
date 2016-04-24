@@ -6,6 +6,7 @@
     "url" : "https://github.com/ryneo/jenkins-multibranch-demo.git"
   },
   "description": "Demo for Jenkins Multibranch using generator-gulp-angular",
+  "license": "MIT",
   "dependencies": {},
   "scripts": {
     "test": "gulp test"
